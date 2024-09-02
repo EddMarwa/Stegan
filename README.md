@@ -12,3 +12,5 @@ This project implements basic steganography techniques for securely embedding an
 
 The project will use the Python Imaging Library (PIL) for image processing and ensure the hidden message remains invisible to the human eye.
 
+
+#2
