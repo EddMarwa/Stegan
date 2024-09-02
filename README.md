@@ -13,6 +13,7 @@ The project will use the Python Imaging Library (PIL) for image processing and e
 
 #2
 To begin, we will start by setting up the basic structure of the project. <br>
-This includes creating a main script to handle the user inputs and coordinate the encoding and decoding processes. We'll also define functions for reading and writing images using the PIL library, ensuring that the images are processed in a way that allows us to manipulate the pixel data.<br> The encoding function will take a message and embed it into the image's pixels, while the decoding function will retrieve the hidden message. Each step will be modularized to maintain clarity and ease of maintenance.
-"""
+This includes creating a main script to handle the user inputs and coordinate the encoding and decoding processes. We'll also define functions for reading and writing images using the PIL library, ensuring that the images are processed in a way that allows us to manipulate the pixel data.<br> 
+The encoding function will take a message and embed it into the image's pixels, while the decoding function will retrieve the hidden message. Each step will be modularized to maintain clarity and ease of maintenance.
+
 
