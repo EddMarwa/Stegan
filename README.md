@@ -19,3 +19,5 @@ We'll also define functions for reading and writing images using the PIL library
 The encoding function will take a message and embed it into the image's pixels, while the decoding function will retrieve the hidden message. Each step will be modularized to maintain clarity and ease of maintenance.
 
 
+
+
