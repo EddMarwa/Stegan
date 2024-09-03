@@ -25,3 +25,5 @@ Care will be taken to ensure that the visual integrity of the image remains inta
 Additionally, we will include a check to ensure that the message size does not exceed the maximum capacity of the image, preventing data loss or corruption.
 
 
+
+
