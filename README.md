@@ -25,7 +25,7 @@ Care will be taken to ensure that the visual integrity of the image remains inta
 Additionally, we will include a check to ensure that the message size does not exceed the maximum capacity of the image, preventing data loss or corruption.
 
 
-
+# 4
 Following the encoding process, we will develop the decoding function. This function will reverse the encoding process by extracting the binary data from the least significant bits (LSBs) of the image's pixels. The extracted binary data will then be converted back into a readable text format, revealing the hidden message. The decoding function will be designed to handle various image formats and ensure accurate message retrieval, even in cases where the image has undergone minimal transformations, such as slight resizing or format conversion.
 """
 
