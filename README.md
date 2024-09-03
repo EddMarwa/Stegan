@@ -27,8 +27,9 @@ Additionally, we will include a check to ensure that the message size does not e
 
 # 4
 Following the encoding process, we will develop the decoding function; This function will reverse the encoding process by extracting the binary data from the least significant bits (LSBs) of the image's pixels. 
-The extracted binary data will then be converted back into a readable text format, revealing the hidden message. The decoding function will be designed to handle various image formats and ensure accurate message retrieval, even in cases where the image has undergone minimal transformations, such as slight resizing or format conversion.
-"""
+The extracted binary data will then be converted back into a readable text format, revealing the hidden message. 
+The decoding function will be designed to handle various image formats and ensure accurate message retrieval, even in cases where the image has undergone minimal transformations, such as slight resizing or format conversion.
+
 
 
 
