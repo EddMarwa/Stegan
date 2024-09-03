@@ -19,6 +19,7 @@ We'll also define functions for reading and writing images using the PIL library
 The encoding function will take a message and embed it into the image's pixels, while the decoding function will retrieve the hidden message. Each step will be modularized to maintain clarity and ease of maintenance.
 
 # 3
-Next, we will implement the encoding function. This function will convert the secret message into a binary format and embed it into the image by modifying the least significant bits (LSBs) of selected pixels. The process will involve iterating through the image pixels and systematically altering the LSBs to store the message bits. Care will be taken to ensure that the visual integrity of the image remains intact. Additionally, we will include a check to ensure that the message size does not exceed the maximum capacity of the image, preventing data loss or corruption.
-"""
+Next, we will implement the encoding function. This function will convert the secret message into a binary format and embed it into the image by modifying the least significant bits (LSBs) of selected pixels. 
+The process will involve iterating through the image pixels and systematically altering the LSBs to store the message bits. Care will be taken to ensure that the visual integrity of the image remains intact. Additionally, we will include a check to ensure that the message size does not exceed the maximum capacity of the image, preventing data loss or corruption.
+
 
