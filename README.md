@@ -37,6 +37,9 @@ This includes checking for common issues, such as unsupported image formats, ins
 We will also validate user inputs to prevent errors during the encoding and decoding processes.
  These safeguards will enhance the reliability of the program, making it resilient to unexpected inputs and providing clear error messages to guide the user in resolving any issues.
 
- """
-For the user interface, a command-line interface (CLI) will be implemented to allow users to interact with the program easily. The CLI will prompt users to select between encoding and decoding modes, specify the image file, and input the message or provide the path to retrieve the hidden message. Clear instructions and prompts will guide the user through each step of the process. Additionally, we'll implement options for the user to customize parameters such as output file names and error messages, ensuring flexibility and ease of use. Future enhancements could include a graphical user interface (GUI) to further improve accessibility.
-"""
+# 6
+For the user interface, a command-line interface (CLI) will be implemented to allow users to interact with the program easily. 
+The CLI will prompt users to select between encoding and decoding modes, specify the image file, and input the message or provide the path to retrieve the hidden message.
+ Clear instructions and prompts will guide the user through each step of the process. 
+ Additionally, we'll implement options for the user to customize parameters such as output file names and error messages, ensuring flexibility and ease of use. 
+ Future enhancements could include a graphical user interface (GUI) to further improve accessibility.
