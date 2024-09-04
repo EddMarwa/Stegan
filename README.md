@@ -36,8 +36,3 @@ To ensure the robustness of the program, we will incorporate error handling and 
 This includes checking for common issues, such as unsupported image formats, insufficient image capacity for the message, and potential data corruption. 
 We will also validate user inputs to prevent errors during the encoding and decoding processes.
  These safeguards will enhance the reliability of the program, making it resilient to unexpected inputs and providing clear error messages to guide the user in resolving any issues.
-
-
-
-
-
