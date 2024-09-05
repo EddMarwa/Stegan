@@ -45,5 +45,8 @@ The CLI will prompt users to select between encoding and decoding modes, specify
  Future enhancements could include a graphical user interface (GUI) to further improve accessibility.
 
 # 7
-After implementing the core functionality, we will focus on testing and verification. This involves testing the program with various images of different formats and sizes to ensure the encoding and decoding processes work correctly across different scenarios. We will also test edge cases, such as attempting to embed a message larger than the image capacity or using images with minimal color variation. Proper testing will help verify that the program can handle a range of situations and that the hidden messages remain undetectable under normal viewing conditions.
+After implementing the core functionality, we will focus on testing and verification. 
+This involves testing the program with various images of different formats and sizes to ensure the encoding and decoding processes work correctly across different scenarios. 
+We will also test edge cases, such as attempting to embed a message larger than the image capacity or using images with minimal color variation. 
+Proper testing will help verify that the program can handle a range of situations and that the hidden messages remain undetectable under normal viewing conditions.
 
