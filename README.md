@@ -55,5 +55,7 @@ Finally, we will consider future enhancements to improve the program's functiona
 Potential upgrades include implementing encryption to further protect the hidden message, adding support for different file formats beyond images (such as audio or video), and creating a graphical user interface (GUI) for easier interaction.
  Additionally, more advanced steganography techniques could be explored, such as adaptive steganography, which varies the embedding method based on image content to further minimize detection. These enhancements would broaden the program's applicability and improve its security and usability.
 
+ 
+
 
 
