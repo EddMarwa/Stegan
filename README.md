@@ -50,5 +50,5 @@ This involves testing the program with various images of different formats and s
 We will also test edge cases, such as attempting to embed a message larger than the image capacity or using images with minimal color variation. 
 Proper testing will help verify that the program can handle a range of situations and that the hidden messages remain undetectable under normal viewing conditions.
 
-
+# 8
 
