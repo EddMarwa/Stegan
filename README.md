@@ -56,7 +56,8 @@ Potential upgrades include implementing encryption to further protect the hidden
  Additionally, more advanced steganography techniques could be explored, such as adaptive steganography, which varies the embedding method based on image content to further minimize detection. These enhancements would broaden the program's applicability and improve its security and usability.
 
  # 9
-In conclusion, this steganography project provides a foundation for securely embedding and retrieving messages within images. By focusing on a modular design, thorough testing, and future improvements, the program will offer both flexibility and reliability. As the project evolves, the integration of advanced techniques and user interface enhancements will further increase its security and ease of use, making it a versatile tool for those interested in steganography and secure communication.
+In conclusion, this steganography project provides a foundation for securely embedding and retrieving messages within images. 
+By focusing on a modular design, thorough testing, and future improvements, the program will offer both flexibility and reliability. As the project evolves, the integration of advanced techniques and user interface enhancements will further increase its security and ease of use, making it a versatile tool for those interested in steganography and secure communication.
 
 
 
