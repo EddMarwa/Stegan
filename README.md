@@ -35,7 +35,7 @@ The decoding function will be designed to handle various image formats and ensur
 To ensure the robustness of the program, we will incorporate error handling and validation mechanisms. 
 This includes checking for common issues, such as unsupported image formats, insufficient image capacity for the message, and potential data corruption. 
 We will also validate user inputs to prevent errors during the encoding and decoding processes.
- These safeguards will enhance the reliability of the program, making it resilient to unexpected inputs and providing clear error messages to guide the user in resolving any issues.
+These safeguards will enhance the reliability of the program, making it resilient to unexpected inputs and providing clear error messages to guide the user in resolving any issues.
 
 # 6
 For the user interface, a command-line interface (CLI) will be implemented to allow users to interact with the program easily. 
