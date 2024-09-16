@@ -1,4 +1,4 @@
-# Stegan Documentation for
+# Stegan Documentation 
 Sample skeleton 
 # 1
 Steganography Project Skeleton
