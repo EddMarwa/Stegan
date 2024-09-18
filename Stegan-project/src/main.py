@@ -1,6 +1,5 @@
 from src.encoding import encode_message
 from src.decoding import decode_message
-from PIL import Image
 
 def main():
     choice = input("Enter 'e' to encode or 'd' to decode: ")
