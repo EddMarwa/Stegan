@@ -1,5 +1,13 @@
-from src.encoding import encode_message
-from src.decoding import decode_message
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+
+from encoding import encode_message
+from decoding import decode_message
+
+# from src.encoding import encode_message
+# from src.decoding import decode_message
+
 
 def main():
     choice = input("Enter 'e' to encode or 'd' to decode: ")
