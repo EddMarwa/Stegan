@@ -18,3 +18,4 @@ def encode_message(image_path, message, output_path):
     
     img.putdata(new_data)
     img.save(output_path)
+    print(f"Message encoded and saved to {output_path}")
