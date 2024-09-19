@@ -61,6 +61,7 @@ By focusing on a modular design, thorough testing, and future improvements, the 
 As the project evolves, the integration of advanced techniques and user interface enhancements will further increase its security and ease of use, making it a versatile tool for those interested in steganography and secure communication.
 
 # Conclusion
+Whatever the vision i had before starting the integration of the steganography and secure communication
 
 
 
