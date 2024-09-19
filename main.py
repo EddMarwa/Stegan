@@ -1,6 +1,7 @@
 from encoding import encode_message
 from decoding import decode_message
 
+
 def main():
     choice = input("Enter 'e' to encode or 'd' to decode: ")
     if choice == 'e':
