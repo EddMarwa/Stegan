@@ -1,6 +1,7 @@
 # Stegan Documentation 
 Sample skeleton Documentation
 Prototype Description
+
 # 1
 Steganography Project Skeleton
 This project implements basic steganography techniques for securely embedding and extracting messages within digital images. The program will support encoding and decoding functionalities, allowing users to hide sensitive information within the least significant bits (LSBs) of image pixels. The initial setup includes the following modules:
