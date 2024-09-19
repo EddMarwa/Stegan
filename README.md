@@ -1,5 +1,5 @@
 # Stegan Documentation 
-Sample skeleton Documentation Prototype Description
+Sample skeleton Documentation ~ Prototype Description
 
 # 1
 Steganography Project Skeleton
