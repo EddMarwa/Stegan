@@ -45,3 +45,7 @@ def encode_message(image_path, message, output_path):
     img.save(output_path)
     print(f"Message encoded and saved to {output_path}")
 
+def image_capacity(image_path):
+    img = Image.open(image_path)
+    width, height = img.size
+    return width * height * 3 // 8  # Each pixel can store 3 bits of information
