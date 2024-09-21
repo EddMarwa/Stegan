@@ -48,4 +48,5 @@ def encode_message(image_path, message, output_path):
 def image_capacity(image_path):
     img = Image.open(image_path)
     width, height = img.size
-    return width * height * 3 // 8  # Each pixel can store 3 bits of information
+    return width * height * 3 // 8  
+
