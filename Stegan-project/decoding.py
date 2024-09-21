@@ -12,3 +12,4 @@ def decode_message(image_path):
     decoded_message = ''.join([chr(int(char, 2)) for char in chars if int(char, 2) != 0])
     
     return decoded_message
+
