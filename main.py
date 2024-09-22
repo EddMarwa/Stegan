@@ -5,6 +5,7 @@ from decoding import decode_message
 
 
 # Function to handle the encoding process
+
 def encode():
     image_path = filedialog.askopenfilename(title="Select Image for Encoding")
     if not image_path:
