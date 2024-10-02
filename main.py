@@ -2,8 +2,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from encoding import encode_message
 from decoding import decode_message
-
-
 # Function to handle the encoding process
 def encode():
     image_path = filedialog.askopenfilename(title="Select Image for Encoding")
