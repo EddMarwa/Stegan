@@ -72,5 +72,5 @@ encode_button.pack(pady=10)
 decode_button = tk.Button(root, text="Decode Message", command=decode)
 decode_button.pack(pady=10)
 
-# Start the GUI loop
+# Start the GUI loops
 root.mainloop()
