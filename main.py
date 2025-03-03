@@ -50,7 +50,7 @@ root = tk.Tk()
 root.title("Steganography Tool")
 root.geometry("400x250")
 
-# Label and Entry for the message to be encoded
+# Label and Entry for the message to be encoded.
 message_label = tk.Label(root, text="Message to Encode:")
 message_label.pack(pady=10)
 
