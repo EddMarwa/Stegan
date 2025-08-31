@@ -31,6 +31,7 @@ The extracted binary data will then be converted back into a readable text forma
 The decoding function will be designed to handle various image formats and ensure accurate message retrieval, even in cases where the image has undergone minimal transformations, such as slight resizing or format conversion.
 
 
+
 # 5
 To ensure the robustness of the program, we will incorporate error handling and validation mechanisms. 
 This includes checking for common issues, such as unsupported image formats, insufficient image capacity for the message, and potential data corruption. 
